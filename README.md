@@ -7,5 +7,5 @@ Functions:
 - List active server connections and open ports via 0.0.0.0.
 - List active server connections and shows process usage.
 - Returns MSSQL instances on host.
-- Returns MSSQL user accounts host. (Reqs Sys Admin Role within MSSQL)
+- Returns MSSQL user accounts on host. (Reqs Sys Admin Role within MSSQL)
 - Returns MSSQL DBs on host.
